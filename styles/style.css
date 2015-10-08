@@ -1,0 +1,19 @@
+#home{
+	background: url(../images/devious_maids.jpg);
+    height: 650px;
+}
+
+.caption{
+    padding: 50px;
+    font-size: 1.5em;
+    color: firebrick;
+    text-align: center
+}
+
+.logo{
+    padding: 25px;
+}
+
+.second{
+    padding: 10px;
+}
