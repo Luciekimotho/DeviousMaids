@@ -58,23 +58,26 @@ color: grey;
   margin-bottom: 50px;
 }
 .slide1 {
-  background: url('')no-repeat center;
+  background: url('../images/DEVIOUS-CRITICS-SPOT_30_ALLNEWSUNDAY_Final-Spots_small.jpg')no-repeat center;
       background-size: cover;
-    animation:fade 20s infinite;
--webkit-animation:fade 20s infinite;
+    animation:fade 30s infinite;
+-webkit-animation:fade 30s infinite;
+    background-position: center;
 
 }
 .slide2 {
-  background: url('')no-repeat center;
+  background: url('../images/devious-maids2.jpg')no-repeat center;
       background-size: cover;
     animation:fade2 20s infinite;
 -webkit-animation:fade2 20s infinite;
+    background-position: center;
 }
 .slide3 {
-    background: url('')no-repeat center;
+    background: url('../images/maids.jpg')no-repeat center;
       background-size: cover;
     animation:fade3 20s infinite;
 -webkit-animation:fade3 20s infinite;
+    background-position: center;
 }
 
 
@@ -83,7 +86,7 @@ color: grey;
   0%   {opacity:1}
   33.333% { opacity: 0}
   66.666% { opacity: 0}
-  100% { opacity: 1}
+  100% { opacity: 0}
 }
 @keyframes fade2
 {
