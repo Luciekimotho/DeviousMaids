@@ -4,3 +4,4 @@ $(function(){
         $this.parents('.synopsis').find('.more_text').show();
     });
           });
+$("#carousel").carousel();
